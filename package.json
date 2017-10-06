@@ -1,6 +1,7 @@
 {
   "name": "angular-google-places-autocomplete",
   "version": "0.2.7",
+  "main": "src/autocomplete.js",
   "repository": {
     "type": "git",
     "url": "http://github.com/kuhnza/angular-google-places-autocomplete.git"
@@ -31,5 +32,4 @@
   "scripts": {
     "test": "grunt test"
   }
-  "main": "src/autocomplete.js"
 }
