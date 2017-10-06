@@ -459,3 +459,4 @@ angular.module('google.places', [])
             return (condition) ? input + ',' : input;
         };
     }]);
+module.exports = 'google.places';
