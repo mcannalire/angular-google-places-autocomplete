@@ -31,4 +31,5 @@
   "scripts": {
     "test": "grunt test"
   }
+  "main": "src/autocomplete.js"
 }
